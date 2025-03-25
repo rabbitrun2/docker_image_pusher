@@ -8,3 +8,18 @@ xhofe/alist:latest
 mysql
 python
 redis
+ubuntu
+debian
+docker
+Docker Labs K8s Toolkit
+Grafana
+mongo
+oraclelinux
+tomcat
+centos
+java
+node
+ruby
+rabbitmq
+wordpress
+elasticsearch
