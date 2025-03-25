@@ -17,5 +17,4 @@ node
 ruby
 rabbitmq
 wordpress
-logstash
-kibana
+
