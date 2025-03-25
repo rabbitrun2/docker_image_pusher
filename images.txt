@@ -13,7 +13,6 @@ debian
 docker
 mongo
 tomcat
-java
 node
 ruby
 rabbitmq
