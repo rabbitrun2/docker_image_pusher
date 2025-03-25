@@ -23,3 +23,5 @@ ruby
 rabbitmq
 wordpress
 elasticsearch
+logstash
+kibana
