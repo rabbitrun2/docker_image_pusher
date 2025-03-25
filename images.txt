@@ -12,7 +12,6 @@ ubuntu
 debian
 docker
 mongo
-oraclelinux
 tomcat
 centos
 java
